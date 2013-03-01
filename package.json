@@ -11,6 +11,9 @@
     "type": "git",
     "url": "https://github.com/hughfdjackson/isArray.git"
   },
+  "dependencies": {
+      "mocha": "*"
+  },
   "keywords": [],
   "author": "hughfdjackson",
   "license": "BSD",
