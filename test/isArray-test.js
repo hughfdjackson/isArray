@@ -1,5 +1,5 @@
-var a = require('assert');
-var isArray = function(a){ return Object.prototype.toString.call(a) === '[object Array]' }
+var a = require('assert')
+var isArray = require('..')
 
 suite('isArray')
 
